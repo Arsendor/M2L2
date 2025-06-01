@@ -10,11 +10,11 @@
 ![image](https://github.com/user-attachments/assets/75d7d706-8882-493e-8afa-e756173d9c94)
 
 Ниже Вы можете просмотреть изображения с примерами пользования ботом:
-![Снимок экрана 2025-05-31 204122](https://github.com/user-attachments/assets/417ff378-ec03-47b3-868b-5e7a104cf4d3)
-![Снимок экрана 2025-05-31 204355](https://github.com/user-attachments/assets/0a8361e0-6128-464f-9c06-c07b4e540038)
-![Снимок экрана 2025-05-31 204310](https://github.com/user-attachments/assets/827f414f-141f-46e5-8093-911f0d0caf03)
-![Снимок экрана 2025-05-31 204229](https://github.com/user-attachments/assets/832ca457-35f5-404f-a710-8e456f0c0b21)
 ![Снимок экрана 2025-05-31 204204](https://github.com/user-attachments/assets/34d4a617-ed7b-440c-92ec-53fe216532f7)
+![Снимок экрана 2025-05-31 204310](https://github.com/user-attachments/assets/827f414f-141f-46e5-8093-911f0d0caf03)
+![Снимок экрана 2025-05-31 204355](https://github.com/user-attachments/assets/0a8361e0-6128-464f-9c06-c07b4e540038)
+![Снимок экрана 2025-05-31 204229](https://github.com/user-attachments/assets/832ca457-35f5-404f-a710-8e456f0c0b21)
+
 
 ***Порадуйте находкой друзей и повеселитесь вместе, играя с ботом!
 Приятного времяпровождения и пользования ботом!***
